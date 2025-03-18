@@ -1,7 +1,7 @@
 # team6
 
-## 상품
+# contact us 개발
 
-- 즐겨찾기
-- 추천상품
-- 푸터
+- contact us 홈페이지 만들기
+- search 개발
+- 디자인 개발
