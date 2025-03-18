@@ -1,7 +1,7 @@
 # team6
 
-# contact us 개발
+# 장바구니 만들기
 
-- contact us 홈페이지 만들기
-- search 개발
-- 디자인 개발
+- cart.md 파일 생성
+- 장바구니 홈페이지 만들기
+- 디자인
