@@ -10,3 +10,4 @@
 # 상품소개
 - 상품소개 페이지 생성
 - goods_2.html 생성
+- index.html g_intro.html 연결
